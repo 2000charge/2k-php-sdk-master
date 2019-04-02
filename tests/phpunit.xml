@@ -1,0 +1,7 @@
+<phpunit bootstrap="bootstrap.php">
+    <testsuites>
+        <testsuite name="models">
+            <directory>./AP/Models</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
